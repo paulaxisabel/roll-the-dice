@@ -2,7 +2,7 @@
 
 Users can play this dice game by refreshing the page. This is a simple dice game that you can play with a friend.
 
-![Preview](./images/roll-the-dice.png)
+![Preview](./images/roll-the-dice.PNG)
 
 ## Built With
 
