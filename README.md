@@ -1,6 +1,8 @@
-# Roll the Dice
+# Roll the Dice: <a href="https://roll-the-dice-by-paula.vercel.app/" target="_blank">Visit Here</a>
 
 Users can play this dice game by refreshing the page. This is a simple dice game that you can play with a friend.
+
+![Preview](./images/roll-the-dice.png)
 
 ## Built With
 
